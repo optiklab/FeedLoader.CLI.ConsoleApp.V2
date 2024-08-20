@@ -9,6 +9,7 @@ using VoxSmart.Feed.Common;
 using VoxSmart.Feed.App;
 using System.CommandLine.NamingConventionBinder;
 using VoxSmart.Feed.App.CommandHandlers;
+using System.Text;
 
 class Program
 {
